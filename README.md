@@ -1,0 +1,1 @@
+![Diagramadeflujo](Numero_mayor.png)
